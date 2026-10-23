@@ -1,0 +1,59 @@
+﻿LICENCE OPENBUREAU — Version 1.0
+Copyright (c) 2026 Dev-Enzo. Tous droits réservés, sauf ceux accordés ci-dessous.
+
+Cette licence s'applique aux scripts, fichiers de configuration et à la
+documentation du projet OpenBureau (ci-après « le Logiciel »), créé par Dev-Enzo.
+
+1. DROIT D'UTILISATION
+Toute personne ou organisation peut utiliser gratuitement le Logiciel, à titre
+personnel comme professionnel, y compris en production au sein d'une entreprise.
+
+2. ADAPTATION LOCALE
+L'utilisateur peut modifier uniquement les paramètres nécessaires au
+fonctionnement du Logiciel dans son propre environnement (adresses IP, noms de
+domaine, noms de machines, chemins, identifiants, mots de passe).
+Ces adaptations sont réservées à son usage interne et ne peuvent pas être
+redistribuées.
+
+3. PARTAGE
+Le Logiciel peut être partagé uniquement dans sa version originale, non
+modifiée, gratuitement, et accompagné de la présente licence.
+
+4. INTERDICTIONS
+Sans l'autorisation écrite de Dev-Enzo, il est interdit :
+  a) de modifier le Logiciel au-delà de l'adaptation locale prévue à l'article 2,
+     ou de redistribuer une version modifiée ;
+  b) de vendre, louer ou sous-licencier le Logiciel, ou de l'inclure dans un
+     produit ou une offre payante ;
+  c) de présenter le Logiciel, en tout ou en partie, comme son propre travail ou
+     de le publier sous un autre nom ;
+  d) de supprimer, masquer ou modifier les mentions d'auteur.
+
+5. MENTION OBLIGATOIRE DE L'AUTEUR
+La mention « OpenBureau — Dev-Enzo » doit rester présente et visible dans
+tous les scripts, fichiers de configuration et fichiers installés sur les
+postes et serveurs par le Logiciel.
+
+6. CONTRIBUTIONS
+Les propositions d'amélioration sont les bienvenues via les issues et pull
+requests du dépôt officiel :
+https://github.com/devenzopro/OpenBureau
+En proposant une contribution, le contributeur accepte qu'elle soit intégrée
+au Logiciel sous la présente licence.
+
+7. LOGICIELS TIERS
+Le Logiciel installe et configure des logiciels tiers (par exemple Zorin OS,
+Samba, ClamAV, Squid). Ces logiciels restent soumis à leurs propres licences,
+que la présente licence ne modifie pas.
+
+8. ABSENCE DE GARANTIE
+Le Logiciel est fourni « tel quel », sans aucune garantie. Dev-Enzo ne peut
+être tenu responsable d'aucun dommage ou perte de données lié à son
+utilisation.
+
+9. ÉVOLUTION DE LA LICENCE
+Dev-Enzo peut modifier cette licence pour les versions futures du Logiciel.
+Les versions déjà publiées restent soumises à la licence qui les accompagnait.
+
+Toute utilisation du Logiciel vaut acceptation de la présente licence.
+
